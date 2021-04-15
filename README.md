@@ -1,0 +1,2 @@
+# STM32WB55_BLE_TEST
+Bluetooth test for STM32WB55CCU6
